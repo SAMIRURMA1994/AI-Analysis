@@ -1,0 +1,417 @@
+- generic [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - navigation [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "HashedIn Logo" [ref=e7]
+      - generic [ref=e8]:
+        - button "Services" [ref=e10] [cursor=pointer]
+        - link "About Us" [ref=e14] [cursor=pointer]:
+          - /url: /about-us
+        - link "Careers" [ref=e15] [cursor=pointer]:
+          - /url: /careers
+        - link "Insights" [ref=e16] [cursor=pointer]:
+          - /url: /insights
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - main [ref=e19]:
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: Your browser does not support the video tag.
+            - img "Background Pattern" [ref=e24]
+          - generic [ref=e26]:
+            - heading "Software Engineering with a Product Mindset" [level=1] [ref=e27]: Software Engineering witha Product Mindset
+            - generic [ref=e28]:
+              - paragraph [ref=e29]: The pace and scale of technology innovation are transforming how organizations compete. Today, software isn't just built; it's orchestrated, deployed, and scaled, with intelligence infused at every step to drive business forward.
+              - paragraph [ref=e30]: Fueled by bold, product-first thinking, we engineer solutions that go beyond code—designing intelligent, AI-driven platforms that harness cloud-first architectures and deep industry expertise to accelerate growth, future-proof your business, and unlock new value.
+              - paragraph [ref=e31]: Our award-winning culture, rooted in a growth mindset, fast-paced learning, and Fun with Purpose, drives our relentless pursuit of engineering excellence.
+            - generic [ref=e32]: Don't just bet on the future. Build it.
+            - button "Get in Touch Arrow" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: Get in Touch
+              - img "Arrow" [ref=e36]
+            - button "Scroll to next section" [ref=e37] [cursor=pointer]:
+              - img "Scroll down" [ref=e38]
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - heading [level=2] [ref=e43]:
+              - text: We Work
+              - generic [ref=e44]: with you atEvery Step of your
+              - text: Engineering Journey
+            - generic [ref=e45]:
+              - generic [ref=e49] [cursor=pointer]:
+                - heading "Concept" [level=3] [ref=e50]
+                - paragraph [ref=e52]: Concept new ways to reach and exceed your business goals. Our engineers, business strategists, experienced designers, and industry specialists collaborate with you to redefine software development.
+              - heading "Define" [level=3] [ref=e55] [cursor=pointer]
+              - heading "Shape" [level=3] [ref=e58] [cursor=pointer]
+              - heading "Build" [level=3] [ref=e61] [cursor=pointer]
+              - heading "Scale" [level=3] [ref=e64] [cursor=pointer]
+          - generic [ref=e65]:
+            - generic [ref=e66]:
+              - heading "Concept" [level=3] [ref=e69]
+              - heading "Define" [level=3] [ref=e72]
+              - heading "Shape" [level=3] [ref=e75]
+              - heading "Build" [level=3] [ref=e78]
+              - heading "Scale" [level=3] [ref=e81]
+            - generic [ref=e82]:
+              - img "Decoration" [ref=e83]
+              - button "Skip to next section" [ref=e84] [cursor=pointer]:
+                - generic [ref=e85]: Skip
+            - img "Decoration" [ref=e87]
+        - generic [ref=e90]:
+          - heading "Explore our Engineering Capabilities" [level=2] [ref=e91]
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - img "Engineering & Artificial Intelligence Learning icon" [ref=e96]
+                - heading "Engineering & Artificial Intelligence Learning" [level=3] [ref=e97]
+              - paragraph [ref=e98]: Aggregate and enrich data securely to help reduce time to insights and enable next-gen AI/ML experiences.
+              - link [ref=e99] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e100]
+            - generic [ref=e101]:
+              - generic [ref=e102]:
+                - img "Software Platform Engineering icon" [ref=e104]
+                - heading "Software Platform Engineering" [level=3] [ref=e105]
+              - paragraph [ref=e106]: Build your modern platform by leveraging a microservices-based architecture, API-driven connectivity, packaged products, and scalable DevOps.
+              - link [ref=e107] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e108]
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - img "Software Product & App Development icon" [ref=e112]
+                - heading "Software Product & App Development" [level=3] [ref=e113]
+              - paragraph [ref=e114]: Expedite product development to meet the most pressing customer needs and deliver innovative new features more frequently.
+              - link [ref=e115] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e116]
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - img "Connected Device Engineering icon" [ref=e120]
+                - heading "Connected Device Engineering" [level=3] [ref=e121]
+              - paragraph [ref=e122]: Design, develop, and commercialize smart connected devices, including hardware and firmware, to drive innovation and effective experiences.
+              - link [ref=e123] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e124]
+            - generic [ref=e125]:
+              - generic [ref=e126]:
+                - img "Cyber & Product Security icon" [ref=e128]
+                - heading "Cyber & Product Security" [level=3] [ref=e129]
+              - paragraph [ref=e130]: Define and validate security controls, identify and remediate security flaws using a proactive shift-left security approach.
+              - link [ref=e131] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e132]
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - img "Software Engineering Operating Model & Talent icon" [ref=e136]
+                - heading "Software Engineering Operating Model & Talent" [level=3] [ref=e137]
+              - paragraph [ref=e138]: Source and retain high-quality talent to help transform and maximize the performance of the engineering organization.
+              - link [ref=e139] [cursor=pointer]:
+                - /url: "#"
+                - text: READ MORE
+                - img "Read more arrow" [ref=e140]
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - heading "Technology Transformation at the Heart of your Business" [level=2] [ref=e145]: Technology Transformationat the Heart of your Business
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: At Deloitte, your success is at the heart of everything we develop. Combining skilled engineering talent with a product-centric mindset and sharp business insights, we build end-to-end solutions tailored to your organization's needs. Through the power of Engineering, we help sharpen your organization's competitive edge. From product strategy to production ready code development to post-production support, we drive business and tech transformations through engineering to help create efficiencies, unlock new value for your enterprise, and more.
+              - paragraph [ref=e148]: Deloitte Engineering aligns with your strategic goals, focusing on outcomes that elevate business performance, drive impactful results, and empower breakthrough innovation.
+            - button "Watch intro Play icon" [ref=e149] [cursor=pointer]:
+              - generic [ref=e150]: Watch intro
+              - img "Play icon" [ref=e151]
+          - img "Technology transformation" [ref=e154]
+        - generic [ref=e156]:
+          - generic [ref=e157]: Your browser does not support the video tag.
+          - generic [ref=e158]:
+            - heading "Our Thinking" [level=2] [ref=e159]
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - generic [ref=e163]:
+                  - 'img "AI Assist™: GenAI for software development" [ref=e165]'
+                  - generic [ref=e166]: ARTICLE
+                  - 'heading "AI Assist™: GenAI for software development" [level=3] [ref=e168]'
+                  - paragraph [ref=e169]: Welcome to a new era of software engineering with AI Assist—an end-to-end accelerator that embeds Generative AI capabilities into every phase of the software development life cycle (SDLC), enhancing...
+                - link [ref=e170] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/services/consulting/services/ai-consulting.html
+                  - text: READ MORE
+                  - img "Read more arrow" [ref=e171]
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - img "Three ways to approach legacy tech modernization with AI" [ref=e175]
+                  - generic [ref=e176]: ARTICLE
+                  - heading "Three ways to approach legacy tech modernization with AI" [level=3] [ref=e178]
+                  - paragraph [ref=e179]: Find three strategies to rethink, reengineer, and reimagine the tech business using AI.Rethinking processes, reengineering the digital core, and reimagining business capabilities with AI.
+                - link [ref=e180] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/insights/topics/digital-transformation/legacy-system-modernization.html
+                  - text: READ MORE
+                  - img "Read more arrow" [ref=e181]
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - img "How can organizations engineer quality software in the age of generative AI?" [ref=e185]
+                  - generic [ref=e186]: ARTICLE
+                  - heading "How can organizations engineer quality software in the age of generative AI?" [level=3] [ref=e188]
+                  - paragraph [ref=e189]: Integrate GenAI and address common challenges to optimize quality. The first in a three-part series on maintaining software quality as organizations integrate gen...
+                - link [ref=e190] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/insights/industry/technology/how-can-organizations-develop-quality-software-in-age-of-gen-ai.html
+                  - text: READ MORE
+                  - img "Read more arrow" [ref=e191]
+              - generic [ref=e192]:
+                - generic [ref=e193]:
+                  - img "Software engineering for your digital business future" [ref=e195]
+                  - generic [ref=e196]: ARTICLE
+                  - heading "Software engineering for your digital business future" [level=3] [ref=e198]
+                  - paragraph [ref=e199]: Explore four models of software engineering organizations and learn how to be a Leader. The average US household has 21 smart devices. By 2025, 90% of Fortune 500...
+                - link [ref=e200] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/services/consulting/articles/software-engineering-in-digital-business.html
+                  - text: READ MORE
+                  - img "Read more arrow" [ref=e201]
+            - generic [ref=e202]:
+              - generic [ref=e206]:
+                - button "‹" [disabled] [ref=e207]
+                - generic [ref=e208]: 1 / 2
+                - button "›" [ref=e209] [cursor=pointer]
+              - link [ref=e211] [cursor=pointer]:
+                - /url: /insights
+                - text: EXPLORE OUR THINKING
+                - img "Arrow" [ref=e212]
+        - generic [ref=e214]:
+          - img "Engineering Future Background" [ref=e216]
+          - generic [ref=e217]:
+            - heading "Engineering the Future" [level=2] [ref=e218]
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - img "Engineering the Future" [ref=e223] [cursor=pointer]
+                - generic [ref=e228]: "AI Assist™ : Transforming Software Development with GenAI"
+              - generic [ref=e229]:
+                - generic [ref=e230] [cursor=pointer]:
+                  - generic: Now Playing
+                  - generic [ref=e233]:
+                    - generic [ref=e234]: "AI Assist™ : Transforming Software Development with GenAI"
+                    - generic [ref=e235]: 1 min 29 sec
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e240]: Move your business Forward
+                  - generic [ref=e241]: 52 sec
+                - generic [ref=e245] [cursor=pointer]:
+                  - generic [ref=e246]: "AI Assist™ : Generative and agentic AI for software development"
+                  - generic [ref=e247]: 4 min 21 sec
+                - generic [ref=e251] [cursor=pointer]:
+                  - generic [ref=e252]: Engineering the Future Together
+                  - generic [ref=e253]: 3 min 32 sec
+        - generic [ref=e256]:
+          - heading "Our Global Presence" [level=2] [ref=e257]
+          - img "Global Presence Map showing HashedIn offices and client locations worldwide" [ref=e259]
+          - generic [ref=e260]:
+            - generic [ref=e261]:
+              - img "Global Scale And Reach" [ref=e263]
+              - generic [ref=e264]: Global Scale And Reach
+            - generic [ref=e265]:
+              - img "Deep Industry Domain Expertise" [ref=e267]
+              - generic [ref=e268]: Deep Industry Domain Expertise
+            - generic [ref=e269]:
+              - img "Product Mindset Approach" [ref=e271]
+              - generic [ref=e272]: Product Mindset Approach
+            - generic [ref=e273]:
+              - img "Engineering Excellence" [ref=e275]
+              - generic [ref=e276]: Engineering Excellence
+            - generic [ref=e277]:
+              - img "Pod Based Delivery" [ref=e279]
+              - generic [ref=e280]: Pod Based Delivery
+        - generic [ref=e282]:
+          - img "Background Pattern" [ref=e284]
+          - generic [ref=e285]:
+            - heading "Awards and Recognition" [level=2] [ref=e286]
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - img "Great Place to Work Certified" [ref=e290]
+                - img "2025 India's Best Workplaces for Millennials" [ref=e292]
+              - paragraph [ref=e293]: We are Great Place to Work Certified Eight Years In A Row!
+              - img "Glassdoor Rating 4.1" [ref=e295]
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - img "Gartner award" [ref=e299]
+                - generic [ref=e300]:
+                  - paragraph [ref=e301]: Named a Leader in the 2024 Gartner® Magic Quadrant™ for Custom Software Development Services and Public Cloud IT Transformation Services, with the highest Completeness of Vision.
+                  - link [ref=e302] [cursor=pointer]:
+                    - /url: https://www.deloitte.com/us/en/services/consulting/articles/magic-quadrant-for-custom-software-development-services.html
+                    - text: READ MORE
+                    - img "Read more arrow" [ref=e303]
+              - generic [ref=e304]:
+                - img "IDC award" [ref=e306]
+                - generic [ref=e307]:
+                  - paragraph [ref=e308]: "Recognized as a Leader in IDC MarketScape: Worldwide Industry Cloud Professional Services 2024 Vendor Assessment."
+                  - link [ref=e309] [cursor=pointer]:
+                    - /url: https://www.deloitte.com/us/en/services/consulting/articles/IDC-marketscape-worldwide-software-engineering-services.html
+                    - text: READ MORE
+                    - img "Read more arrow" [ref=e310]
+              - generic [ref=e311]:
+                - img "Everest Group award" [ref=e313]
+                - generic [ref=e314]:
+                  - paragraph [ref=e315]: Ranked a leading provider by the Everest Group Engineering Services Top 50™ report.
+                  - link [ref=e316] [cursor=pointer]:
+                    - /url: https://www.deloitte.com/us/en/about/press-room/everest-group-engineering-services-top-50.html
+                    - text: READ MORE
+                    - img "Read more arrow" [ref=e317]
+        - generic [ref=e320]:
+          - heading "Streamline Delivery. Break Down Bottlenecks. Build for the Future" [level=2] [ref=e321]
+          - paragraph [ref=e323]: In a world driven by data, harnessing the power of engineering and technology transformation is essential. This belief shapes how we innovate and deliver. Our teams combine deep technical expertise, cloud-native architectures, and AI-powered intelligence to help clients reimagine what's possible, accelerate innovation, and shape the future of work.
+          - heading "Why we are Different" [level=3] [ref=e326]
+          - generic [ref=e328]:
+            - generic [ref=e330]:
+              - heading "Engineering Excellence" [level=4] [ref=e331]
+              - paragraph [ref=e332]: Delivering scalable, cloud-native solutions with deep industry expertise to tackle complex challenges and drive transformative, measurable outcomes.
+            - generic [ref=e334]:
+              - heading "AI-powered Orchestration" [level=4] [ref=e335]
+              - paragraph [ref=e336]: Orchestrating intelligent systems and human expertise to accelerate delivery and enable next-generation solutions. By leveraging GenAI and automation, our teams compress cycles, enhance creativity, and unlock breakthrough value.
+            - generic [ref=e338]:
+              - heading "Pod-based Delivery & Product Mindset" [level=4] [ref=e339]
+              - paragraph [ref=e340]: Cross-functional teams blending human-centered design, engineering rigor, and outcome-driven approaches to maximize impact and scale innovation.
+        - generic [ref=e342]:
+          - generic:
+            - img "Background Plant"
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - heading "Shape the Future. Engineer Breakthroughs." [level=2] [ref=e345]: Shape the Future. EngineerBreakthroughs.
+              - generic [ref=e346]:
+                - paragraph [ref=e347]: At HashedIn by Deloitte, your work goes beyond code — you'll orchestrate intelligent systems, harness next-gen technologies, and solve complex real-world problems every day. With the agility of a start-up and the opportunities of a global enterprise, you'll grow your craft, embrace a growth mindset, and thrive in an engineering community that redefines what's possible.
+                - paragraph [ref=e348]: Ready to lead the next era of software engineering? Get in touch.
+              - button "See Current Job Openings Arrow icon" [ref=e350] [cursor=pointer]:
+                - generic [ref=e351]: See Current Job Openings
+                - img "Arrow icon" [ref=e353]
+            - img "Impact section - Shape the Future" [ref=e355]
+        - generic [ref=e357]:
+          - img "HashedIn Logo" [ref=e359] [cursor=pointer]
+          - generic [ref=e360]:
+            - img "Scroll to top" [ref=e362] [cursor=pointer]
+            - generic [ref=e363]:
+              - generic [ref=e364]:
+                - img "Office Address" [ref=e366]
+                - generic [ref=e367]: Office Address
+              - generic [ref=e368]:
+                - generic [ref=e369] [cursor=pointer]: Bengaluru |
+                - generic [ref=e370] [cursor=pointer]: Chennai |
+                - generic [ref=e371] [cursor=pointer]: Gurugram |
+                - generic [ref=e372] [cursor=pointer]: Hyderabad |
+                - generic [ref=e373] [cursor=pointer]: Kolkata |
+                - generic [ref=e374] [cursor=pointer]: Mumbai |
+                - generic [ref=e375] [cursor=pointer]: Pune
+            - generic [ref=e376]:
+              - link "Services" [ref=e378] [cursor=pointer]:
+                - /url: /services
+              - link "Ecosystems & Alliances" [ref=e380] [cursor=pointer]:
+                - /url: https://www2.deloitte.com/us/en/pages/about-deloitte/solutions/deloitte-alliances.html
+            - generic [ref=e381]:
+              - link "About Us" [ref=e383] [cursor=pointer]:
+                - /url: /about-us
+              - link "Careers" [ref=e385] [cursor=pointer]:
+                - /url: /careers
+              - link "Open Positions" [ref=e387] [cursor=pointer]:
+                - /url: /careers#explore-opportunities
+            - generic [ref=e388]:
+              - link "Insights" [ref=e390] [cursor=pointer]:
+                - /url: /insights
+              - link "Contact Us" [ref=e392] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Our People" [ref=e394] [cursor=pointer]:
+                - /url: /about-us#our-people
+            - generic [ref=e395]:
+              - link "Cookies" [ref=e397] [cursor=pointer]:
+                - /url: https://cookienotice.deloitte.com/
+              - button "Cookie Settings" [ref=e399] [cursor=pointer]
+          - generic [ref=e400]:
+            - generic [ref=e401]:
+              - link [ref=e403] [cursor=pointer]:
+                - /url: https://in.linkedin.com/company/hashedin
+                - img "Linkedin" [ref=e404]
+              - link [ref=e406] [cursor=pointer]:
+                - /url: https://www.facebook.com/hashedin
+                - img "Facebook" [ref=e407]
+              - link [ref=e409] [cursor=pointer]:
+                - /url: https://twitter.com/HashedIn
+                - img "Twitter" [ref=e410]
+              - link [ref=e412] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC32lAAO0jMeV_4rWN7EhtBg
+                - img "Youtube" [ref=e413]
+              - link [ref=e415] [cursor=pointer]:
+                - /url: https://www.instagram.com/hashedinbydeloitte
+                - img "Instagram" [ref=e416]
+            - generic [ref=e417]:
+              - link "Terms of use" [ref=e418] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/legal/terms-of-use.html?icid=bn_terms-of-use
+              - link "Privacy" [ref=e420] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/legal/privacy/privacy-index.html?icid=bn_privacy-index
+              - link "Data Privacy Framework" [ref=e422] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/legal/privacy/data-privacy-framework.html?icid=bn_data-privacy-framework
+            - generic [ref=e423]:
+              - link "Legal Information for job Seekers" [ref=e424] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/legal/join-deloitte-legal-information-for-job-seekers.html?icid=bn_join-deloitte-legal-information-for-job-seekers
+              - link "Labor Condition Applications" [ref=e426] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/about/content/labor-condition-applications.html?icid=bn_labor-condition-applications
+              - link "Do Not Sell or Share My Personal Information" [ref=e428] [cursor=pointer]:
+                - /url: https://www.deloitte.com/us/en/legal/privacy/do-not-sell-my-personal-information.html?icid=bn_do-not-sell-my-personal-information
+            - generic [ref=e429]:
+              - generic [ref=e430]:
+                - text: © 2026. See
+                - link "Terms of Use" [ref=e431] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/legal/terms-of-use.html
+                - text: for more information.
+              - generic [ref=e432]:
+                - text: Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee ("DTTL"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as "Deloitte Global") does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the "Deloitte" name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see
+                - link "www.deloitte.com/about" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.deloitte.com/us/en/about/governance/network-brand-alliances/about-the-network.html
+                - text: to learn more about our global network of member firms.
+              - generic [ref=e434]: © HashedIn by Deloitte 2026
+      - navigation "Section Progress Navigation" [ref=e435]:
+        - generic [ref=e439]:
+          - generic [ref=e440]:
+            - button "Navigate to Home section"
+            - button "Navigate to Home section" [ref=e441] [cursor=pointer]: Home
+          - generic [ref=e442]:
+            - button "Navigate to Journey section" [ref=e443] [cursor=pointer]
+            - button "Navigate to Journey section" [ref=e444] [cursor=pointer]: Journey
+          - generic [ref=e445]:
+            - button "Navigate to Capabilities section" [ref=e446] [cursor=pointer]
+            - button "Navigate to Capabilities section" [ref=e447] [cursor=pointer]: Capabilities
+          - generic [ref=e448]:
+            - button "Navigate to Technology section" [ref=e449] [cursor=pointer]
+            - button "Navigate to Technology section" [ref=e450] [cursor=pointer]: Technology
+          - generic [ref=e451]:
+            - button "Navigate to Thinking section" [ref=e452] [cursor=pointer]
+            - button "Navigate to Thinking section" [ref=e453] [cursor=pointer]: Thinking
+          - generic [ref=e454]:
+            - button "Navigate to Future section" [ref=e455] [cursor=pointer]
+            - button "Navigate to Future section" [ref=e456] [cursor=pointer]: Future
+          - generic [ref=e457]:
+            - button "Navigate to Global Presence section" [ref=e458] [cursor=pointer]
+            - button "Navigate to Global Presence section" [ref=e459] [cursor=pointer]: Global Presence
+          - generic [ref=e460]:
+            - button "Navigate to Awards section" [ref=e461] [cursor=pointer]
+            - button "Navigate to Awards section" [ref=e462] [cursor=pointer]: Awards
+          - generic [ref=e463]:
+            - button "Navigate to Delivery section" [ref=e464] [cursor=pointer]
+            - button "Navigate to Delivery section" [ref=e465] [cursor=pointer]: Delivery
+          - generic [ref=e466]:
+            - button "Navigate to Impact section" [ref=e467] [cursor=pointer]
+            - button "Navigate to Impact section" [ref=e468] [cursor=pointer]: Impact
+  - alert [ref=e470]
+  - region "Cookie banner" [ref=e471]:
+    - dialog "Here’s how we use cookies" [ref=e472]:
+      - generic [ref=e473]:
+        - generic [ref=e474]:
+          - generic:
+            - heading "Here’s how we use cookies" [level=2] [ref=e475]
+            - generic [ref=e476]:
+              - text: Deloitte uses strictly necessary cookies and similar technologies to operate this website and to provide you with a more personalized user experience. In addition to strictly necessary cookies, Deloitte uses optional cookies to enhance and personalize your experience, analyze site usage and traffic sources to understand how visitors engage with our website, deliver relevant content or advertisements, and facilitate data sharing with analytics and advertising providers. When you arrived at this website, Deloitte may have placed strictly necessary cookies and optional analytics cookies on your device. By clicking "Accept all optional cookies", you agree to the placement of optional cookies on your device. You can manage your cookie preferences or withdraw your consent to the use of optional cookies at any time by clicking "Tailor your cookie preferences." If you disable and withdraw your consent to the use of optional analytics cookies, Deloitte will not continue to receive data from the optional analytics cookies placed when you arrived at this website. Depending on your selected cookie preferences, the full functionality or personalized user experience of this website may not be available. Learn more by visiting
+              - link "Deloitte’s cookie notice, opens in a new tab" [active] [ref=e477] [cursor=pointer]:
+                - /url: https://cookienotice.deloitte.com
+                - text: Deloitte's Cookie Notice.
+        - generic [ref=e479]:
+          - generic [ref=e480]:
+            - button "Accept all optional cookies" [ref=e481] [cursor=pointer]
+            - button "Decline all optional cookies" [ref=e482] [cursor=pointer]
+          - button "Tailor your cookie preferences, Opens the preference center dialog" [ref=e483] [cursor=pointer]: Tailor your cookie preferences

@@ -1,0 +1,25 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - link "HeyFloe" [ref=e4] [cursor=pointer]:
+      - /url: /academy
+    - generic [ref=e6]:
+      - paragraph [ref=e7]: Hustle with AI is now HeyFloe
+      - heading "Your course has moved here." [level=1] [ref=e8]
+      - paragraph [ref=e9]: Everything I teach now lives on HeyFloe, and so do the course lessons you bought.
+      - region [ref=e10]:
+        - heading "Bought a course from Hustle with AI?" [level=2] [ref=e11]
+        - paragraph [ref=e12]: Your lessons are waiting in the HeyFloe Student Hub, in English and Hindi, for life. Enter the email you used to buy, and they open straight away. Google works too, if it’s the same email.
+        - link "Get my lessons" [ref=e13] [cursor=pointer]:
+          - /url: /sign-in?redirect_url=%2Fhub%2Flessons
+        - paragraph [ref=e14]:
+          - text: Bought with a different email, or can’t see your lessons?
+          - link "Message me on WhatsApp" [ref=e15] [cursor=pointer]:
+            - /url: https://wa.me/919108306110?text=Hi%20Nadeem%2C%20I%20bought%20the%20course%20on%20Hustle%20with%20AI%20and%20need%20help%20getting%20my%20lessons%20on%20HeyFloe.
+          - text: and I’ll sort it out.
+      - region [ref=e16]:
+        - heading "New here?" [level=2] [ref=e17]
+        - paragraph [ref=e18]: "HeyFloe Academy’s 90 Day Program: the recorded lessons, a live session with me every week, ready-made templates and AI credits to make your videos."
+        - link "See HeyFloe Academy" [ref=e19] [cursor=pointer]:
+          - /url: /academy?utm_source=hustlewithai&utm_medium=redirect
+  - button "Chat on WhatsApp" [ref=e21] [cursor=pointer]
+  - alert [ref=e24]

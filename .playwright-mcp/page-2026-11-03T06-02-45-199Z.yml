@@ -1,0 +1,415 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e6]:
+          - link "HeyFloe HeyFloe" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "HeyFloe" [ref=e8]
+            - generic [ref=e9]: HeyFloe
+          - generic [ref=e10]:
+            - link "Studio" [ref=e11] [cursor=pointer]:
+              - /url: /
+            - link "Claude & ChatGPT" [ref=e12] [cursor=pointer]:
+              - /url: /connect
+            - link "Pricing" [ref=e13] [cursor=pointer]:
+              - /url: "#pricing"
+          - generic [ref=e14]:
+            - link "Log in" [ref=e15] [cursor=pointer]:
+              - /url: /sign-in?redirect_url=%2Fdashboard
+            - link "Get started" [ref=e16] [cursor=pointer]:
+              - /url: /sign-up?redirect_url=%2Fdashboard
+        - generic [ref=e17]:
+          - link "New Unlimited videos on MiniMax H3" [ref=e18] [cursor=pointer]:
+            - /url: "#unlimited"
+            - generic [ref=e19]: New
+            - generic [ref=e23]: Unlimited videos on MiniMax H3
+            - generic [aria-hidden] [ref=e24]: →
+          - heading "Make Faceless AI Videos in Hours Days" [level=1] [ref=e25]:
+            - text: Make Faceless AIVideos
+            - generic [ref=e26]: in Hours Days
+          - paragraph [ref=e27]:
+            - generic [ref=e28]: Built for
+            - generic [ref=e29]: YouTube,
+            - generic [ref=e33]: from idea to publish
+          - generic [ref=e34]:
+            - link "Enter Studio" [ref=e35] [cursor=pointer]:
+              - /url: /sign-in?redirect_url=%2Fdashboard
+            - link "Use in Claude, ChatGPT" [ref=e36] [cursor=pointer]:
+              - /url: /connect
+          - generic [ref=e38]:
+            - generic [ref=e39]: The models inside
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - generic [ref=e42]: MiniMax H3
+              - listitem [ref=e43]:
+                - generic [ref=e44]: Nano Banana 2.1
+              - listitem [ref=e45]:
+                - generic [ref=e46]: GPT Image 2.5
+              - listitem [ref=e47]:
+                - generic [ref=e48]: ElevenLabs
+              - listitem [ref=e49]:
+                - generic [ref=e50]: Lyria 3.5
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - paragraph [ref=e55]: Examples
+              - heading "Made in HeyFloe." [level=2] [ref=e56]
+            - generic [ref=e57]:
+              - button "Scroll left" [ref=e58] [cursor=pointer]
+              - button "Scroll right" [ref=e61] [cursor=pointer]
+          - region "Examples made in HeyFloe. Use the left and right arrow keys to scroll." [ref=e65]:
+            - generic [ref=e66] [cursor=pointer]:
+              - img "Animation — made in HeyFloe" [ref=e67]
+              - generic [ref=e69]: Animation
+            - generic [ref=e70] [cursor=pointer]:
+              - img "Documentary — made in HeyFloe" [ref=e71]
+              - generic [ref=e73]: Documentary
+            - generic [ref=e74] [cursor=pointer]:
+              - img "Drama — made in HeyFloe" [ref=e75]
+              - generic [ref=e77]: Drama
+            - generic [ref=e78] [cursor=pointer]:
+              - img "Fantasy — made in HeyFloe" [ref=e79]
+              - generic [ref=e81]: Fantasy
+            - generic [ref=e82] [cursor=pointer]:
+              - img "Kids — made in HeyFloe" [ref=e83]
+              - generic [ref=e85]: Kids
+            - generic [ref=e89] [cursor=pointer]: Animation
+            - generic [ref=e93] [cursor=pointer]: Documentary
+            - generic [ref=e97] [cursor=pointer]: Drama
+            - generic [ref=e101] [cursor=pointer]: Fantasy
+            - generic [ref=e105] [cursor=pointer]: Kids
+          - paragraph [ref=e106]: Point at a clip to play it. Drag or use the arrows to see more.
+        - generic [ref=e109]:
+          - paragraph [ref=e110]: How it works
+          - heading "Write it. Cast it. Shoot it. Cut it." [level=2] [ref=e111]:
+            - generic [ref=e112]: Write it. Cast it.
+            - generic [ref=e113]: Shoot it. Cut it.
+          - generic [ref=e114]:
+            - tablist "How it works" [ref=e115]:
+              - tab "01 Write it Start from an idea or paste your script. Floe writes every scene and every voiceover line." [selected] [ref=e116] [cursor=pointer]:
+                - generic [ref=e117]:
+                  - generic [ref=e118]: "01"
+                  - generic [ref=e119]: Write it
+                - generic [ref=e120]: Start from an idea or paste your script. Floe writes every scene and every voiceover line.
+              - tab "02 Cast it Your characters are saved to your channel and look the same in every scene." [ref=e121] [cursor=pointer]:
+                - generic [ref=e122]:
+                  - generic [ref=e123]: "02"
+                  - generic [ref=e124]: Cast it
+                - generic [ref=e125]: Your characters are saved to your channel and look the same in every scene.
+              - tab "03 Shoot it Every scene becomes an image, then a clip." [ref=e126] [cursor=pointer]:
+                - generic [ref=e127]:
+                  - generic [ref=e128]: "03"
+                  - generic [ref=e129]: Shoot it
+                - generic [ref=e130]: Every scene becomes an image, then a clip.
+              - tab "04 Cut it Voiceover, music and captions go on, and the editor cuts it together." [ref=e131] [cursor=pointer]:
+                - generic [ref=e132]:
+                  - generic [ref=e133]: "04"
+                  - generic [ref=e134]: Cut it
+                - generic [ref=e135]: Voiceover, music and captions go on, and the editor cuts it together.
+            - tabpanel "01 Write it Start from an idea or paste your script. Floe writes every scene and every voiceover line." [ref=e137]:
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - paragraph [ref=e141]: Mimi runs away
+                  - paragraph [ref=e142]: Short · 3 scenes
+                - list [ref=e143]:
+                  - listitem [ref=e144]:
+                    - generic [ref=e145]: "1"
+                    - generic [ref=e146]:
+                      - paragraph [ref=e147]: Mom and Dad argue in the living room.
+                      - paragraph [ref=e148]: Voice“The shouting started again.”
+                  - listitem [ref=e149]:
+                    - generic [ref=e150]: "2"
+                    - generic [ref=e151]:
+                      - paragraph [ref=e152]: Mimi slips out the front door.
+                      - paragraph [ref=e153]: Voice“Mimi didn't wait for it to end.”
+                  - listitem [ref=e154]:
+                    - generic [ref=e155]: "3"
+                    - generic [ref=e156]:
+                      - paragraph [ref=e157]: Out on the street, she keeps walking.
+                      - paragraph [ref=e158]: Voice“She didn't know where she was going.”
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - paragraph [ref=e163]: Claude & ChatGPT
+            - heading "Use HeyFloe inside Claude and ChatGPT." [level=2] [ref=e164]
+            - paragraph [ref=e165]: Talk it through in the chat you already use. HeyFloe makes the images, clips and voiceover, and nothing is spent until you say yes to the price.
+            - generic [ref=e166]:
+              - link "Set it up" [ref=e167] [cursor=pointer]:
+                - /url: /connect
+              - generic [ref=e168]: Works on Claude's free plan. ChatGPT needs Plus or above.
+          - img "An example chat in Claude using HeyFloe" [ref=e169]:
+            - generic [ref=e170]:
+              - generic [ref=e171]: Claude
+              - generic [ref=e172]: HeyFloe connected
+            - generic [ref=e173]:
+              - paragraph [ref=e174]: Make a 30-second short about Mimi, the orange cat who runs away. Keep her the same in every scene.
+              - paragraph [ref=e175]: "Here's the plan: three scenes, with Mimi in two of them. I'll draw the images first."
+              - generic [ref=e176]:
+                - generic [ref=e177]:
+                  - generic [ref=e178]: HeyFloe
+                  - generic [ref=e179]: 3 images · 15ꞙ
+                - generic [ref=e180]:
+                  - generic [ref=e181]: Yes, make them
+                  - generic [ref=e182]: Change something
+              - paragraph [ref=e184]: Done. Here are your three scenes.
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - generic [ref=e193]:
+              - paragraph [ref=e194]: Pricing
+              - heading "Writing is free. Pay for what you make." [level=2] [ref=e195]
+              - paragraph [ref=e196]: Every plan is a number of MiniMax H3 video clips plus credits for images, voiceover, sound effects and music, or for more clips once your plan's are used up. Writing is free.
+            - link "Compare every plan →" [ref=e197] [cursor=pointer]:
+              - /url: /pricing
+          - generic [ref=e198]:
+            - list "How a plan works" [ref=e199]:
+              - listitem [ref=e200]:
+                - paragraph [ref=e201]: Video clips
+                - paragraph [ref=e202]: "Your plan's clips come first: MiniMax H3, 720p with sound, up to 10 s each."
+              - listitem [ref=e203]:
+                - paragraph [ref=e204]: Credits
+                - paragraph [ref=e205]: Images, voiceover, sound effects and music. When your plan's clips are used up, a clip costs credits too.
+              - listitem [ref=e206]:
+                - paragraph [ref=e207]: Writing is free
+                - paragraph [ref=e208]: Ideas, stories, scripts, Floe, editing, captions and export are never counted.
+            - generic [ref=e209]:
+              - tablist "Plans" [ref=e211]:
+                - tab "Trial" [selected] [ref=e212] [cursor=pointer]
+                - tab "Lite" [ref=e213] [cursor=pointer]
+                - tab "Starter" [ref=e214] [cursor=pointer]
+                - tab "Pro" [ref=e215] [cursor=pointer]
+                - tab "Unlimited" [ref=e216] [cursor=pointer]
+              - generic [ref=e218]:
+                - tabpanel "Trial" [ref=e219]:
+                  - generic [ref=e220]:
+                    - heading "Trial" [level=3] [ref=e221]
+                    - generic [ref=e222]: Start here
+                  - paragraph [ref=e223]:
+                    - generic [ref=e224]: ₹499
+                    - generic [ref=e225]: once · lasts a month
+                  - generic [ref=e226]:
+                    - paragraph [ref=e227]:
+                      - generic [ref=e228]: "15"
+                      - generic [ref=e229]: video clips
+                    - paragraph [ref=e230]: 150 seconds · MiniMax H3 · 2 at a time
+                  - generic [ref=e231]:
+                    - paragraph [ref=e232]:
+                      - generic [ref=e233]: + 200
+                      - generic [ref=e234]: credits
+                    - paragraph [ref=e235]: What can you do with 200 credits (any mix)
+                    - list [ref=e236]:
+                      - listitem [ref=e237]:
+                        - generic [ref=e238]: 40 images
+                        - generic [ref=e239]: Nano Banana 2.1
+                      - listitem [ref=e240]:
+                        - generic [ref=e241]:
+                          - text: 20 min voiceover
+                          - generic [ref=e242]: · 66 min on Gemini
+                        - generic [ref=e243]: ElevenLabs v4
+                      - listitem [ref=e244]:
+                        - generic [ref=e245]: 40 sound effects
+                        - generic [ref=e246]: ElevenLabs
+                      - listitem [ref=e247]:
+                        - generic [ref=e248]: 20 music tracks
+                        - generic [ref=e249]: Lyria 3.5
+                      - listitem [ref=e250]:
+                        - generic [ref=e251]: 10 more video clips
+                        - generic [ref=e252]: MiniMax H3
+                  - paragraph [ref=e253]: Bought once. Nothing renews.
+                  - link "Start the trial" [ref=e255] [cursor=pointer]:
+                    - /url: /sign-up?redirect_url=%2Fsettings%2Fbilling
+                - tabpanel "Lite" [ref=e256]:
+                  - heading "Lite" [level=3] [ref=e258]
+                  - paragraph [ref=e259]:
+                    - generic [ref=e260]: ₹1,999
+                    - generic [ref=e261]: /mo
+                  - generic [ref=e262]:
+                    - paragraph [ref=e263]:
+                      - generic [ref=e264]: "40"
+                      - generic [ref=e265]: video clips
+                    - paragraph [ref=e266]: 400 seconds · MiniMax H3 · 2 at a time
+                  - generic [ref=e267]:
+                    - paragraph [ref=e268]:
+                      - generic [ref=e269]: + 600
+                      - generic [ref=e270]: credits
+                    - paragraph [ref=e271]: What can you do with 600 credits (any mix)
+                    - list [ref=e272]:
+                      - listitem [ref=e273]:
+                        - generic [ref=e274]: 120 images
+                        - generic [ref=e275]: Nano Banana 2.1
+                      - listitem [ref=e276]:
+                        - generic [ref=e277]:
+                          - text: 60 min voiceover
+                          - generic [ref=e278]: · 200 min on Gemini
+                        - generic [ref=e279]: ElevenLabs v4
+                      - listitem [ref=e280]:
+                        - generic [ref=e281]: 120 sound effects
+                        - generic [ref=e282]: ElevenLabs
+                      - listitem [ref=e283]:
+                        - generic [ref=e284]: 60 music tracks
+                        - generic [ref=e285]: Lyria 3.5
+                      - listitem [ref=e286]:
+                        - generic [ref=e287]: 30 more video clips
+                        - generic [ref=e288]: MiniMax H3
+                  - paragraph [ref=e289]: 1 channel
+                  - link "Choose Lite" [ref=e291] [cursor=pointer]:
+                    - /url: /sign-up?redirect_url=%2Fsettings%2Fbilling
+                - tabpanel "Starter" [ref=e292]:
+                  - heading "Starter" [level=3] [ref=e294]
+                  - paragraph [ref=e295]:
+                    - generic [ref=e296]: ₹4,999
+                    - generic [ref=e297]: /mo
+                  - generic [ref=e298]:
+                    - paragraph [ref=e299]:
+                      - generic [ref=e300]: "100"
+                      - generic [ref=e301]: video clips
+                    - paragraph [ref=e302]: 1,000 seconds · MiniMax H3 · 3 at a time
+                  - generic [ref=e303]:
+                    - paragraph [ref=e304]:
+                      - generic [ref=e305]: + 1,400
+                      - generic [ref=e306]: credits
+                    - paragraph [ref=e307]: What can you do with 1,400 credits (any mix)
+                    - list [ref=e308]:
+                      - listitem [ref=e309]:
+                        - generic [ref=e310]: 280 images
+                        - generic [ref=e311]: Nano Banana 2.1
+                      - listitem [ref=e312]:
+                        - generic [ref=e313]:
+                          - text: 140 min voiceover
+                          - generic [ref=e314]: · 466 min on Gemini
+                        - generic [ref=e315]: ElevenLabs v4
+                      - listitem [ref=e316]:
+                        - generic [ref=e317]: 280 sound effects
+                        - generic [ref=e318]: ElevenLabs
+                      - listitem [ref=e319]:
+                        - generic [ref=e320]: 140 music tracks
+                        - generic [ref=e321]: Lyria 3.5
+                      - listitem [ref=e322]:
+                        - generic [ref=e323]: 70 more video clips
+                        - generic [ref=e324]: MiniMax H3
+                  - paragraph [ref=e325]: 1 channel
+                  - link "Choose Starter" [ref=e327] [cursor=pointer]:
+                    - /url: /sign-up?redirect_url=%2Fsettings%2Fbilling
+                - tabpanel "Pro" [ref=e328]:
+                  - heading "Pro" [level=3] [ref=e330]
+                  - paragraph [ref=e331]:
+                    - generic [ref=e332]: ₹9,999
+                    - generic [ref=e333]: /mo
+                  - generic [ref=e334]:
+                    - paragraph [ref=e335]:
+                      - generic [ref=e336]: "250"
+                      - generic [ref=e337]: video clips
+                    - paragraph [ref=e338]: 2,500 seconds · MiniMax H3 · 4 at a time
+                  - generic [ref=e339]:
+                    - paragraph [ref=e340]:
+                      - generic [ref=e341]: + 2,500
+                      - generic [ref=e342]: credits
+                    - paragraph [ref=e343]: What can you do with 2,500 credits (any mix)
+                    - list [ref=e344]:
+                      - listitem [ref=e345]:
+                        - generic [ref=e346]: 500 images
+                        - generic [ref=e347]: Nano Banana 2.1
+                      - listitem [ref=e348]:
+                        - generic [ref=e349]:
+                          - text: 250 min voiceover
+                          - generic [ref=e350]: · 833 min on Gemini
+                        - generic [ref=e351]: ElevenLabs v4
+                      - listitem [ref=e352]:
+                        - generic [ref=e353]: 500 sound effects
+                        - generic [ref=e354]: ElevenLabs
+                      - listitem [ref=e355]:
+                        - generic [ref=e356]: 250 music tracks
+                        - generic [ref=e357]: Lyria 3.5
+                      - listitem [ref=e358]:
+                        - generic [ref=e359]: 125 more video clips
+                        - generic [ref=e360]: MiniMax H3
+                  - paragraph [ref=e361]: 2 channels
+                  - link "Choose Pro" [ref=e363] [cursor=pointer]:
+                    - /url: /sign-up?redirect_url=%2Fsettings%2Fbilling
+                - tabpanel "Unlimited" [ref=e364]:
+                  - heading "Unlimited" [level=3] [ref=e366]
+                  - paragraph [ref=e367]:
+                    - generic [ref=e368]: ₹34,999
+                    - generic [ref=e369]: /mo
+                  - generic [ref=e370]:
+                    - paragraph [ref=e371]:
+                      - generic [ref=e372]: Unlimited
+                      - generic [ref=e373]: videos at Relaxed speed
+                    - paragraph [ref=e374]: MiniMax H3 · plus 600 Fast video clips · 8 Fast at a time
+                  - generic [ref=e375]:
+                    - paragraph [ref=e376]:
+                      - generic [ref=e377]: + 7,000
+                      - generic [ref=e378]: credits
+                    - paragraph [ref=e379]: What can you do with 7,000 credits (any mix)
+                    - list [ref=e380]:
+                      - listitem [ref=e381]:
+                        - generic [ref=e382]: 1,400 images
+                        - generic [ref=e383]: Nano Banana 2.1
+                      - listitem [ref=e384]:
+                        - generic [ref=e385]:
+                          - text: 700 min voiceover
+                          - generic [ref=e386]: · 2,333 min on Gemini
+                        - generic [ref=e387]: ElevenLabs v4
+                      - listitem [ref=e388]:
+                        - generic [ref=e389]: 1,400 sound effects
+                        - generic [ref=e390]: ElevenLabs
+                      - listitem [ref=e391]:
+                        - generic [ref=e392]: 700 music tracks
+                        - generic [ref=e393]: Lyria 3.5
+                      - listitem [ref=e394]:
+                        - generic [ref=e395]: 350 more video clips
+                        - generic [ref=e396]: MiniMax H3
+                  - paragraph [ref=e397]: 3 channels · Relaxed clips can take longer when it's busy
+                  - link "Choose Unlimited" [ref=e399] [cursor=pointer]:
+                    - /url: /sign-up?redirect_url=%2Fsettings%2Fbilling
+              - paragraph [ref=e400]: Every plan and the trial include ideas, stories, scripts, Floe, editing, captions and export, never counted.
+        - generic [ref=e403]:
+          - generic [ref=e404]:
+            - paragraph [ref=e405]: Questions
+            - heading "Good to know." [level=2] [ref=e406]
+          - generic [ref=e407]:
+            - group [ref=e408]:
+              - generic "What can I make with HeyFloe?" [ref=e409] [cursor=pointer]
+            - group [ref=e413]:
+              - generic "How long does a video take?" [ref=e414] [cursor=pointer]
+            - group [ref=e418]:
+              - generic "Do my characters look the same from video to video?" [ref=e419] [cursor=pointer]
+            - group [ref=e423]:
+              - generic "What's free?" [ref=e424] [cursor=pointer]
+            - group [ref=e428]:
+              - generic "Can I use it from Claude or ChatGPT?" [ref=e429] [cursor=pointer]
+            - group [ref=e433]:
+              - generic "Can I cancel anytime?" [ref=e434] [cursor=pointer]
+        - generic [ref=e440]:
+          - heading "Make your next video." [level=2] [ref=e441]
+          - paragraph [ref=e442]: Writing is free, so start with the story.
+          - generic [ref=e443]:
+            - link "Enter Studio" [ref=e444] [cursor=pointer]:
+              - /url: /sign-in?redirect_url=%2Fdashboard
+            - link "Use in Claude, ChatGPT →" [ref=e445] [cursor=pointer]:
+              - /url: /connect
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - img "HeyFloe" [ref=e451]
+              - generic [ref=e452]: HeyFloe
+            - paragraph [ref=e453]: AI storytelling studio. Ideas to published, all in one pipeline.
+          - generic [ref=e454]:
+            - heading "Studio" [level=4] [ref=e455]
+            - link "Features" [ref=e456] [cursor=pointer]:
+              - /url: /
+            - link "Pricing" [ref=e457] [cursor=pointer]:
+              - /url: /pricing
+            - link "Log in" [ref=e458] [cursor=pointer]:
+              - /url: /sign-in
+          - generic [ref=e459]:
+            - heading "Company" [level=4] [ref=e460]
+            - link "hello@heyfloe.ai" [ref=e461] [cursor=pointer]:
+              - /url: mailto:hello@heyfloe.ai
+            - link "Privacy" [ref=e462] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms" [ref=e463] [cursor=pointer]:
+              - /url: /terms
+        - generic [ref=e464]: © 2026 HeyFloe
+  - alert [ref=e465]

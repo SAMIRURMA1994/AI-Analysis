@@ -1,0 +1,19 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]: HeyFloe
+      - generic [ref=e7]:
+        - heading "Your AI studio for storytelling." [level=1] [ref=e8]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - generic [ref=e14]: Chat, ideas, scripts & scene plans, all free
+          - listitem [ref=e15]:
+            - generic [ref=e19]: Reuse the same cast across your whole channel
+          - listitem [ref=e20]:
+            - generic [ref=e24]: Publish-ready Shorts in minutes
+      - paragraph [ref=e33]: Loved by 500+ AI storytellers
+    - status [ref=e37]:
+      - generic [ref=e38]:
+        - img "HeyFloe" [ref=e44]
+        - paragraph [ref=e45]: One moment…
+  - alert [ref=e48]
