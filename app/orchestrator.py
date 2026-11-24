@@ -20,6 +20,7 @@ class Assistant:
     def __init__(self, github: Any, ollama: OllamaClient) -> None:
         self.github = github
         self.ollama = ollama
+        self._workflow: Any = None
 
     @staticmethod
     def _debug_value(value: Any, limit: int = 2000) -> str:
@@ -1205,7 +1206,7 @@ class Assistant:
             )
         )
 
-    async def answer(self, question: str) -> dict[str, Any]:
+    async def _answer_core(self, question: str) -> dict[str, Any]:
         print(f"[TRACE] User query received by orchestrator: {question}", flush=True)
         # Keep deterministic intent extraction anchored to the user's words.
         # The LLM rewrite is for understanding only and must not replace the
@@ -1663,3 +1664,12 @@ class Assistant:
             "answer": "The request required too many tool steps. Please try a more specific question.",
             "tool_calls": tool_calls,
         }
+
+    async def answer(self, question: str) -> dict[str, Any]:
+        """Run the assistant through the explicit LangGraph workflow."""
+        if self._workflow is None:
+            from .workflow import build_assistant_workflow
+
+            self._workflow = build_assistant_workflow(self)
+        state = await self._workflow.ainvoke({"question": question})
+        return state["result"]
